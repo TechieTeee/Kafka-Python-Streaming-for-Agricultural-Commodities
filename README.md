@@ -2,4 +2,4 @@
 
 
 ## Kafka Python Streaming for Agricultural Commodities Data
-*Python Script to Stream Agricultural Commodities Data in Python from CSV Value Holding Data
+* Python Script to Stream Agricultural Commodities Data in Python from CSV Value Holding Data
